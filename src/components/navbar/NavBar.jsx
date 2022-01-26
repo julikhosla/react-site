@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { RiCloseLine, RiMenu3Line } from "react-icons/ri";
-import logo from "../../assets/logo.svg";
+// import logo from "../../assets/logo.svg";
+import logo from "../../assets/blog03.png";
 import "./navbar.css";
 //BEM -> Block Element Modifier css
 
@@ -10,7 +11,7 @@ const Menu = () => (
       <a href="#home">Home</a>
     </p>
     <p>
-      <a href="#wgpt3">What is GPT3?</a>
+      <a href="#wgpt3">What is In-Tech?</a>
     </p>
     <p>
       <a href="#possibility">Open AI</a>
